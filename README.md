@@ -14,7 +14,7 @@ The files uploaded in the repo are only the code written by us (library implemen
 - PulseRate.dart: Shows the pulse count average and other calculations based on pulse rate
 - StepTracker.dart: Shows the number of steps taken by the user wearing the shoe
 - Buddy.dart: Keeps record of the emergency contacts to whom the alert messages will be sent.
-- 
+- Account.dart: Keeps record of the user's data.
 # Dependencies
 
 HARDWARE:
