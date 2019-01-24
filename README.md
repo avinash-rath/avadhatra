@@ -41,3 +41,13 @@ SOFTWARE:
 6. The account and buddies information is pulled from the firestore data in the 'Account.dart' and 'Buddy.dart' file using futures and async blocks.
 7. The Location of the Device is tracked by the 'location' library in the dart packages. The location fetching is triggered through the 'SoS'utton for demonstartion purposes.('HomePage.dart', 'FloatingButton'). 
 8. The pulserate fetched from the database is displayed in the PulseRate.dart file using the same kind of futures and async blocks that are implemented for 'Buddy.dart' and 'Account.dart'. Same is for Step count in 'Steptracker.dart' .
+
+
+# ScreenShots
+1. ![splashScreen](/Screenshot_2019-01-24-08-00-34-786_com.avadhatra.avadhatra.png)
+2. ![img](/Screenshot_2019-01-24-08-00-39-074_com.avadhatra.avadhatra.png)
+3. ![img](/Screenshot_2019-01-24-08-00-44-594_com.avadhatra.avadhatra.png)
+4. ![img](/Screenshot_2019-01-24-08-00-49-211_com.avadhatra.avadhatra.png)
+5. ![img](/Screenshot_2019-01-24-08-01-02-113_com.avadhatra.avadhatra.png)
+6. ![img](/Screenshot_2019-01-24-08-01-10-125_com.avadhatra.avadhatra.png)
+7. ![img](/Screenshot_2019-01-24-08-01-16-793_com.avadhatra.avadhatra.png)
