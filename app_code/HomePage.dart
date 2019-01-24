@@ -97,7 +97,7 @@ class HomePageState extends State<HomePage> {
                   context: context,
                   builder: (BuildContext context){
                     return AlertDialog(
-                      title: Text("$latitude,$longitude"),
+                      title: Text("The Location of the user is $latitude(Latitude),$longitude(Longitude)"),
                     );
                   }
               );
