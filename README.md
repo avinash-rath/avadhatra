@@ -36,7 +36,7 @@ SOFTWARE:
 
 # Functions
 1. The pulse Rate sensor interfaced with arduino is keeping a track of the pulse rate of the user and the data is sent to the firebase through Wifi.
-2. The accelerometer is counting the number of steps and sending the data in real time to the firebase through Wifi.
+2. The accelerometer is counting the number of steps and sending the data to the firebase through Wifi.
 3. The collected data is stored in the firebase cloud and is regularly displayed on the App.
 4. It also keeps a track of the location of the user using SoS.
 5.  In case of emergency a security alert message will be sent to the buddy contacts provided by the user along with the current location.
