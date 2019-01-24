@@ -24,13 +24,13 @@ The files uploaded in the repo are only the code written by us (library implemen
 
 # Requirements
 
-#HARDWARE:
+HARDWARE:
 • Arduino-uno
 • Pulse rate sensor
 • Accelerometer sensor(GY-521)
 • Wifi module(ESP8266)
 
-#SOFTWARE:
+SOFTWARE:
 • Firebase
 • Flutter
 
